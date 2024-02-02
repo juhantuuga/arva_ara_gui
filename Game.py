@@ -1,3 +1,4 @@
+# Käivitab lihtsalt vajalikud osad, et mäng käima läheks
 from Controller import Controller
 
 
